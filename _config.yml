@@ -1,0 +1,16 @@
+title: "Suvidha Deshpande"
+email: suvidhav@buffalo.edu
+description: >-
+  MS CS @ SUNY Buffalo | AI + Full Stack Developer | Ex-Deloitte, Zycus
+baseurl: ""
+url: "https://suvidhav.github.io"
+linkedin_username: suvidha-deshpande
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-include-cache
+  - jekyll-archives
