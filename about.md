@@ -11,7 +11,9 @@ I am Suvidha Deshpande, a Computer Science Master's student at SUNY Buffalo. Wit
 - **BE in Electronics & Telecommunication**, SPPU
 
 ### 🧰 Skills
-- Languages: Python, JavaScript, TypeScript, Java
-- Frameworks: React, Angular, NodeJS
-- AI Tools: TensorFlow, PyTorch, LangChain, Keras, LlamaIndex
-- DevOps: Docker, Jenkins, GitHub CI/CD
+-Languages: Python (NumPy, SciPy, Pandas) | Java | Typescript | HTML | CSS | JavaScript | SQL
+-Frameworks & Libraries: TensorFlow | PyTorch | Keras | Scikit-learn | LangChain | LangGraph | LlamaIndex
+-Tools: Dynatrace | Docker | Jenkins | Agile 
+-Frontend: React.js (5+ yrs)| Angular | Vue.js | Responsive Design | UI/UX Principles | Accessibility (WCAG 2.1 AA)
+-Backend Integration: Java (Spring Boot) | REST APIs 
+-Cloud & Data Services: MongoDB | PostgreSQL | NoSQL

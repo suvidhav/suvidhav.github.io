@@ -2,15 +2,15 @@ title: "Suvidha Deshpande"
 email: suvidhav@buffalo.edu
 description: >-
   MS CS @ SUNY Buffalo | AI + Full Stack Developer | Ex-Deloitte, Zycus
-baseurl: ""
+
+baseurl: "" # leave this blank for user.github.io
 url: "https://suvidhav.github.io"
 
 linkedin_username: suvidha-deshpande
 
+theme: jekyll-theme-architect
+
 markdown: kramdown
 
-remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-remote-theme
